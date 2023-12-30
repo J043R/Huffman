@@ -1,2 +1,2 @@
-# Huffman-
+# Huffman
 My Huffman archiver
